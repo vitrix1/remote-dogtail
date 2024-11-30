@@ -1,0 +1,5 @@
+dogtail
+pycairo
+PyGObject
+rpyc
+psutil
