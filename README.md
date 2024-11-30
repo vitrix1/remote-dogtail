@@ -21,7 +21,7 @@ sudo apt-cache policy at-spi2-core
 cd pyatspi
 git checkout PYATSPI_2_46_1
 ```
-Available tags can be found at: [pyatspi2 history](https://gitlab.gnome.org/GNOME/pyatspi2/-/commits/master/?ref_type=HEADS)
+Available tags can be found at: [pyatspi2 history](https://gitlab.gnome.org/GNOME/pyatspi2/-/commits/master/?ref_type=HEADS)  
 5. Copy the `pyatspi` module to Python's library directory:
 ```bash
 sudo cp -r ~/pyatspi2/pyatspi /usr/lib/python3/dist-packages/
