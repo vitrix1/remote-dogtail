@@ -43,7 +43,7 @@ To start the server, use the following command:
 Where `4723` is the port on which the server will listen. The default port is `8080`.
 
 ## Client side
-To use the service from a remote client, you need to connect to the server via RPC and call the Dogtail startup method.     
+To use the service from a remote client, you need to connect to the server via RPyC and call the Dogtail startup method.     
 Example:
 ```python
 import rpyc
